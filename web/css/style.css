@@ -1,0 +1,20 @@
+@charset "UTF-8";
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: navy;
+}
+
+table { 
+	border-collapse:collapse; border:1px solid #000; 
+}
+
+table th { 
+	border-collapse:collapse; border:1px solid #000; 
+}
+
+table td { 
+	border-collapse:collapse; border:1px solid #000; 
+}
